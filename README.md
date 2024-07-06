@@ -2,6 +2,7 @@
 
 ![EEG-Controlled Prosthetic Hand](GIF/gif.gif)
 
+## Overview
 In this project, we developed a system that utilizes EEG data to accurately classify motor actions as either grasp or release. The EEG signals are processed and fed into a Convolutional Neural Network (CNN) model designed to identify these specific motor events. Once the model predicts the action it is translated into physical movement of a prototype hand via an Arduino-controlled servo motor. This project demonstrates a low-cost, efficient approach to translating brain signals into physical movements, providing a potential pathway for developing advanced prosthetic devices that can respond to the user's neural commands with high precision.
 
 ## Table of Contents
