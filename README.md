@@ -81,7 +81,7 @@ This project demonstrates a low-cost, efficient approach to translating brain si
       📖
     </td>
     <td align="center">
-      <a href="https://github.com/username2">
+      <a href="https://github.com/hadeerfasih">
         <img src="https://avatars.githubusercontent.com/u/104545742?v=4" width="100px;" alt="Hadeer"/>
         <br />
         <sub><b>Hadeer</b></sub>
