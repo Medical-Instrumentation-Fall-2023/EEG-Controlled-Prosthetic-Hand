@@ -66,3 +66,53 @@ To visualize the EEG data before and after filtering, run the `EEG_visual.py` fi
 
 ## Conclusion
 This project demonstrates a low-cost, efficient approach to translating brain signals into physical movements, providing a potential pathway for developing advanced prosthetic devices. By leveraging EEG and machine learning techniques, we aim to enhance the quality of life for individuals with motor impairments, offering them greater autonomy and functionality in their daily activities.
+
+## Contributers
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nouran-19">
+        <img src="https://avatars.githubusercontent.com/u/99448829?v=4" width="100px;" alt="Nouran"/>
+        <br />
+        <sub><b>Nouran Khatab</b></sub>
+      </a>
+      <br />
+      📖
+    </td>
+    <td align="center">
+      <a href="https://github.com/username2">
+        <img src="https://avatars.githubusercontent.com/u/104545742?v=4" width="100px;" alt="Hadeer"/>
+        <br />
+        <sub><b>Hadeer</b></sub>
+      </a>
+      <br />
+      🔧
+    </td>
+   <td align="center">
+      <a href="https://github.com/Mariam-Hatem">
+        <img src="https://avatars.githubusercontent.com/u/115348754?v=4" width="100px;" alt="Mariam"/>
+        <br />
+        <sub><b>Mariam Hatem</b></sub>
+      </a>
+      <br />
+      🔧
+    <td align="center">
+      <a href="https://github.com/Sarah2332">
+        <img src="https://avatars.githubusercontent.com/u/104179154?v=4" width="100px;" alt="Sarah"/>
+        <br />
+        <sub><b>Sarah Mohamed</b></sub>
+      </a>
+      <br />
+      🎨
+    <td align="center">
+      <a href="https://github.com/Nadaaomran">
+        <img src="https://avatars.githubusercontent.com/u/104179154?v=4" width="100px;" alt="Nada"/>
+        <br />
+        <sub><b>Nada Omran</b></sub>
+      </a>
+      <br />
+      📖
+    
+  </tr>
+</table>
